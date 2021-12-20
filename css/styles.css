@@ -66,3 +66,20 @@ body {
   position: absolute;
   z-index: 1;
 }
+
+.modal-header {
+  background-color: #512da8;
+}
+
+.modal-header h4,
+h2 {
+  color: floralwhite;
+}
+
+.modal-header button {
+  color: floralwhite;
+}
+
+.modal-body {
+  background-color: #d1c4e9;
+}
